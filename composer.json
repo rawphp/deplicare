@@ -1,0 +1,14 @@
+{
+    "name": "rawphp/deplicare",
+    "description": "Symfony Deployment Tool",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tom Kaczocha",
+            "email": "tom@crazydev.org"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
